@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click Captcha",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Q1jm8O8urke-eYR275MQIQ",
+  "Reference": "68jII1dPq0GUbyKZgo4v_Q/Q1jm8O8urke-eYR275MQIQ",
+  "ParentRef": "68jII1dPq0GUbyKZgo4v_Q/mCWff2InfUSgg6FtloG-TQ",
+  "Created": "2025-08-28T10:10:34.1388661Z",
+  "Updated": "2025-08-28T10:10:34.1388661Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ekwlV2xKB0W2WBAk7wB0LA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="fdcdd0c3-278c-40cc-8299-d5b29382d2de" CvElementArea="1090, 632, 228, 74" CvTextArea="1163, 660, 78, 18" CvTextArgument="Submit" CvType="Button" DesignTimeRectangle="1094, 636, 220, 67" DesignTimeScaleFactor="1.3499999046325684" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='Submit' tag='BUTTON' type='' class='bubble-element Button clickable-element' check:innerText='Submit' /&gt;" Guid="6dfd53f7-3c1c-4ec0-8b84-5d5b27cf7c34" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The Automation Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="cd2c0813b408be44ab02cf9af0046bb6.png" xmlns="">cd2c0813b408be44ab02cf9af0046bb6.png</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

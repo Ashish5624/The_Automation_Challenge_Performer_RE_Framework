@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8_97LCRax0WNnfFo47OHSQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com" CVScreenId="13e9ed83-e3e7-40ad-bda8-998923e81d4e" CvElementArea="789, 379, 39, 39" CvType="CheckBox" DesignTimeRectangle="790, 380, 37, 38" ElementType="Button" FullSelectorArgument="&lt;webctrl aaname='presentation' tag='BUTTON' /&gt;" Guid="0f1cc1f8-6eb8-47d4-98cb-669489fc6779" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The Automation Challenge' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="13e9ed83-e3e7-40ad-bda8-998923e81d4e" CvTextArea="753, 299, 438, 21" CvTextArgument="! Get through this reCAPTCHA to continue" CvType="Text" DesignTimeRectangle="707, 293, 524, 34" FullSelectorArgument="&lt;webctrl class='content' css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='content' type='' tag='DIV' aaname=' Get through this reCAPTCHA to continue' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Get through this reCAPTCHA to continue' /&gt;" Guid="f4ad779e-5e64-4f0c-ac43-e4f4fe7b7c81" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="-2" Y="-2" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="412b4b3d7120df0e1c610dedf742fe14.png" xmlns="">0ndD0v2lcMk-zxDVxpif2pQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
